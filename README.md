@@ -1,4 +1,4 @@
-# SimpleStateManagment
+# Simple state management in Angular with only Services and RxJS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.14.
 
